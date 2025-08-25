@@ -26,8 +26,6 @@ export default function ShowAll() {
     }
   }
 
-  console.log('ShowAll render - loading:', loading, 'creators:', creators)
-
   if (loading) {
     return <div>Loading...</div>
   }
@@ -35,13 +33,13 @@ export default function ShowAll() {
   return (
     <div style={{ textAlign: 'center' }}>
       <h1 style={{ marginBottom: '0.5rem' }}>All Creators</h1>
-      <p style={{ color: 'var(--muted-color)', marginBottom: '3rem' }}>
+      <p style={{ marginBottom: '3rem' }}>
         Showing {creators.length} creators • Sorted alphabetically
       </p>
       {creators.length === 0 ? (
         <div style={{ padding: '3rem', textAlign: 'center' }}>
           <p style={{ marginBottom: '1rem' }}>No creators found.</p>
-          <a href="/add" role="button">Add the first one!</a>
+          <a href="/new" role="button">Add the first one!</a>
         </div>
       ) : (
         <div style={{

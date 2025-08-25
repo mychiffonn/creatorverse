@@ -26,7 +26,7 @@ function App() {
           <Routes>
             <Route path="/" element={<ShowAll />} />
             <Route path="/creator/:id" element={<Show />} />
-            <Route path="/add" element={<Add />} />
+            <Route path="/new" element={<Add />} />
             <Route path="/edit/:id" element={<Edit />} />
           </Routes>
         </main>

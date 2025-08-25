@@ -30,7 +30,7 @@ export default function Header() {
         </Link>
 
         <Link
-          to="/add"
+          to="/new"
           role="button"
           style={{
             padding: '0.5rem 1rem',
