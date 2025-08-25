@@ -34,11 +34,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features (GIF created with [Kap](https://getkap.co/)):
 
-![GIF Walkthrough](https://i.imgur.com/TadBtz2.gif)
+![GIF Walkthrough](https://i.imgur.com/8JlciG3.gif)
+
+If the GIF doesn't load, please go to [https://imgur.com/8JlciG3](https://imgur.com/8JlciG3) directly
 
 A look into the database on Supabase
 
-![Supabase Database](./assets/supbase.png)
+![Supabase Database](./assets/supabase.png)
 
 ## Notes
 
