@@ -32,11 +32,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features (GIF created with [Kap](https://getkap.co/)):
+Here's a walkthrough of implemented required features:
 
-![GIF Walkthrough](https://i.imgur.com/8JlciG3.gif)
+<video src="https://i.imgur.com/TadBtz2.mp4" autoplay loop muted playsinline></video>
 
-If the GIF doesn't load, please go to [https://imgur.com/8JlciG3](https://imgur.com/8JlciG3) directly
+If the GIF/video doesn't load, please go to [https://imgur.com/8JlciG3](https://imgur.com/8JlciG3) directly
 
 A look into the database on Supabase
 
