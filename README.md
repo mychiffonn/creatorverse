@@ -1,5 +1,8 @@
 # WEB103 Prework - Creator 
 
+![Header + ShowAll](./assets/preview-1.png)
+![ShowAll + Footer](./assets/preview-2.png)
+
 Submitted by: Tra My (Chiffon) Nguyen
 
 About this web app: Database of YouTub creators, particularly productivity experts and video essayists
