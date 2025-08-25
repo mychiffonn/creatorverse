@@ -32,11 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<video src="https://i.imgur.com/TadBtz2.mp4" autoplay loop muted playsinline></video>
-
-If the GIF/video doesn't load, please go to [https://imgur.com/8JlciG3](https://imgur.com/8JlciG3) directly
+For a walkthrough of implemented required features, please go to [https://i.imgur.com/TadBtz2.mp4](https://i.imgur.com/TadBtz2.mp4).
 
 A look into the database on Supabase
 
