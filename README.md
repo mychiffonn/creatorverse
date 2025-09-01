@@ -45,6 +45,37 @@ A look into the database on Supabase
 
 CRUD logic (fetching/adding/editing/removing a creator) is in [services.ts](./src/services.ts).
 
+## Getting Started
+
+- Node.js >= 22 (tested with Node 24)
+- npm/yarn/pnpm/bun package manager. pnpm recommended.
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/mychiffonn/creatorverse
+   cd creatorverse
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pnpm install
+   ```
+
+3. **Configure Supabase**
+   - Create a `.env` file in the root directory
+   - Add your Supabase API key:
+     ```
+     VITE_SUPABASE_KEY=your_supabase_key_here
+     ```
+   - Update the Supabase URL in [services.ts](./src/services.ts)
+
+4. **Start the development server**
+   ```bash
+   pnpm dev
+   ```
+
+5. Navigate to `http://localhost:5173` in the browser (or the port shown in terminal)
+
 ## License
 
 Copyright 2025 My (Chiffon) Nguyen
